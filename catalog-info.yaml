@@ -6,5 +6,5 @@ metadata:
     github.com/project-slug: anamness/prometheus
 spec:
   type: other
-  lifecycle: production
+  lifecycle: experimental
   owner: guests
